@@ -6,4 +6,4 @@
 
 # set-up
 * firsty install dependencies for both services
-* start BE by ```$ npm run start```, FE by npm run dev
+* start BE by ```$ npm run start```, FE by ```npm run dev```
